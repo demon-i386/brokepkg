@@ -1,4 +1,4 @@
-# BrokePkg
+# FixedPkg
 
 <p align="center">
   <img src="https://i.ibb.co/2tCgDcQ/broke-without.png" width="40%">
@@ -6,7 +6,7 @@
 
 ---
 
-Brokepkg is a LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and ARM64, with suport after kernel 5.7, without `kallsyms_lookup_name`.
+Fixedpkg is a LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and ARM64, with suport after kernel 5.7, without `kallsyms_lookup_name`.
 
 ## Tested on
 
